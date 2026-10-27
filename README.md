@@ -1,5 +1,4 @@
-Git Bash Learn with best
-<br>
-This is my Git hub repo
-<br>
+# Git Bash - Learn with Best
+
+This is my GitHub repository.  
 Author - Anshul
